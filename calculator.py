@@ -24,3 +24,7 @@ def power(x, y):
 
 def sqrt(x):
     pass
+
+
+def abs(x):
+    pass
